@@ -1,1 +1,4 @@
-dos
+package yahtzee;
+
+public class Yahtzee {
+}
